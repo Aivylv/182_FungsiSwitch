@@ -23,4 +23,7 @@ int main()
 
     prosedurLuas(panjang, lebar);
     cout << "Luas persegi panjang dengan prosedur: " << luas << endl;
+    cout << "Luas persegi panjang dengan fungsi: " << fungsiLuas(panjang, lebar) << endl;
+
+    return 0;
 }
