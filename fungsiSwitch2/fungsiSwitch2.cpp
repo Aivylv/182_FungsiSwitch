@@ -30,7 +30,9 @@ void inputData()
     cout << "Masukkan bilangan kedua: ";
     cin >> bilangan2;
 }
+
 int main()
 {
+    int pilihan;
     
 }
