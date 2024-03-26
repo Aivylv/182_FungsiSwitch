@@ -20,5 +20,7 @@ int main()
     cin >> panjang;
     cout << "Masukkan lebar: ";
     cin >> lebar;
+
+    prosedurLuas(panjang, lebar);
     
 }
