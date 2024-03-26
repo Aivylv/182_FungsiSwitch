@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FungsiSwitch", "FungsiSwitch\FungsiSwitch.vcxproj", "{192B0850-582A-4283-A512-A6FBE6FFE88F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fungsiSwitch2", "fungsiSwitch2\fungsiSwitch2.vcxproj", "{FE4F7841-1311-4002-8BB7-B9994D09E291}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{192B0850-582A-4283-A512-A6FBE6FFE88F}.Release|x64.Build.0 = Release|x64
 		{192B0850-582A-4283-A512-A6FBE6FFE88F}.Release|x86.ActiveCfg = Release|Win32
 		{192B0850-582A-4283-A512-A6FBE6FFE88F}.Release|x86.Build.0 = Release|Win32
+		{FE4F7841-1311-4002-8BB7-B9994D09E291}.Debug|x64.ActiveCfg = Debug|x64
+		{FE4F7841-1311-4002-8BB7-B9994D09E291}.Debug|x64.Build.0 = Debug|x64
+		{FE4F7841-1311-4002-8BB7-B9994D09E291}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE4F7841-1311-4002-8BB7-B9994D09E291}.Debug|x86.Build.0 = Debug|Win32
+		{FE4F7841-1311-4002-8BB7-B9994D09E291}.Release|x64.ActiveCfg = Release|x64
+		{FE4F7841-1311-4002-8BB7-B9994D09E291}.Release|x64.Build.0 = Release|x64
+		{FE4F7841-1311-4002-8BB7-B9994D09E291}.Release|x86.ActiveCfg = Release|Win32
+		{FE4F7841-1311-4002-8BB7-B9994D09E291}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
